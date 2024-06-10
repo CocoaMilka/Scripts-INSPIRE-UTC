@@ -10,5 +10,6 @@ These are the scripts I used in my time working for Inspire UTC. All these scrip
 
 # Included Scripts
 
-*generate-unity-gitignore.bat* - Generates the Unity gitignore from github (So you don't include all that extra garbage that fricks up people who clone)
-*track-large.bat* - You will be working with lots of large files, this script will automatically add all files above 50MB to git lfs (make sure you have git lfs installed)
+`generate-unity-gitignore.bat` - Generates the Unity gitignore from github (So you don't include all that extra garbage that fricks up people who clone)
+
+`track-large.bat` - You will be working with lots of large files, this script will automatically add all files above 50MB to git lfs (make sure you have git lfs installed)
